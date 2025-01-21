@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boxun, a Robotics master student at Johns Hopkins University.
-- 👀 I’m interested in medical robot, medical imaging, and deep learning. 
+- 👀 I’m interested in medical robot, medical imaging, computer vision and reinforcement learning. 
 - 🌱 I’m currently working on imaging/video guiding robot, head tracking algorithm.
 - 💞️ I’m looking to collaborate on learning and perception-based robots, as well as deep learning-based medical image analysis.
 - 📫 How to reach me: Email me at bhu29@jh.edu
