@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boxun, an ECE PhD student at Johns Hopkins University.
 - 👀 I’m interested in embodied AI, medical robot, medical imaging, computer vision and reinforcement learning. 
-- 🌱 I’m currently working on imaging/video guiding robot, head tracking algorithm.
-- 💞️ I’m looking to collaborate on learning and perception-based robots, as well as deep learning-based medical image analysis.
+- 🌱 I’m currently working on robot perception, quadruped robot and 3D head tracking algorithm.
+- 💞️ I’m looking to collaborate on learning and perception-based robotics.
 - 📫 How to reach me: Email me at bhu29@jh.edu
 
 <!---
